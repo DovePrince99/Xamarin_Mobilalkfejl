@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Xamarin_Mobilalkfejl.MadeBy_RightPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Baki Roland"
+                FontSize="25"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions=" Start" />
+
+            <Label Text="Y48GKG"
+                FontSize="25"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="EndAndExpand" />
+
+            <Label Text="Pámer Ádám"
+                FontSize="25"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="Start" />
+
+            <Label Text="CFJHC9"
+                FontSize="25"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="EndAndExpand" />
+
+            <Label Text="Zsólya Máté"
+                FontSize="25"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="Start" />
+
+            <Label Text="BIT8ZL"
+                FontSize="25"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="EndAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
