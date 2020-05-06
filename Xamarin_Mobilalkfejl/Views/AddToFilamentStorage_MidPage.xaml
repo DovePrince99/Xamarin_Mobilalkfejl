@@ -21,8 +21,9 @@
                 VerticalOptions="Start" 
                 HorizontalOptions="Start" />
             <Entry Placeholder="{Binding InfoOFEntrys}" Text="{Binding Mass_FromEntry, Mode=OneWayToSource}" />
-            
-            <Button Text="Save" Clicked="Button_Clicked"/>
+
+            <Button  VerticalOptions="End" Text="Save" Clicked="Save_Clicked"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
